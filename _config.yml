@@ -1,0 +1,4 @@
+title: "17381 Numbers Lab"
+url: "https://17381.com"
+baseurl: ""
+exclude: [README.md, RESEARCH.md, BUILD-PROMPTS.md]
